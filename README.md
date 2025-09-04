@@ -37,9 +37,15 @@ webpack-template/
    ```bash
    npm run dev
    ```
+
 3. **Build for production:**
    ```bash
    npm run build
+   ```
+
+4. **Deploy to GitHub Pages:**
+   ```bash
+   npm run deploy
    ```
 
 ## Linting
